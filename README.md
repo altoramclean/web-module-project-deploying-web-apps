@@ -12,14 +12,16 @@ Think about which project you are most proud of up to this point that you have b
 
 Follow these steps for completing your project.
 
-- [ ] Send your team lead the link to your web app 
-- [ ] Show them that it has been added to your portfolio
-- [ ] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with Vercel ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
+- [x] Send your team lead the link to your web app 
+- [x] Show them that it has been added to your portfolio
+- [x] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with Vercel ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this) * i can not find my portfolio file so i am going to make a new one with this link and post it in here*
 - [ ] Once you have finished, your TL will count the project as completed
 
 ### Task 2a: MVP
 
 After you have figured out which project you want to deploy, sign up for an account with Vercel and start the deployment process as outlined in training kit for this module. Once the project is deployed, you will add it to your porfolio site. Finally, work on updating this project so that it is polished and bug free! Good luck!
+
+-I will add the link to the Vercel here once i have completed the steps
 
 ### Task 3: Stretch Problems
 
@@ -28,7 +30,7 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 Work on deploying a second, or even third portfolio project. If you have extra time, go back and update the styles, add features, fix bugs, etc, on all the sites so that they will look good for potential employers.
 
 ### Submission Format
-- [ ] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
-- [ ] Connect your fork to Codegrade using the "Connect Git" button.
-- [ ] Find your newly created fork from the list and push your work to main.
-- [ ] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
+- [x] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
+- [x] Connect your fork to Codegrade using the "Connect Git" button.
+- [x] Find your newly created fork from the list and push your work to main.
+- [x] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
