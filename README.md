@@ -19,9 +19,13 @@ Follow these steps for completing your project.
 
 ### Task 2a: MVP
 
-After you have figured out which project you want to deploy, sign up for an account with Vercel and start the deployment process as outlined in training kit for this module. Once the project is deployed, you will add it to your porfolio site. Finally, work on updating this project so that it is polished and bug free! Good luck!
+After you have figured out which project you want to deploy, sign up for an account with Vercel and start the deployment process as outlined in training kit for this module. Once the project is deployed, you will add it to your portfolio site. Finally, work on updating this project so that it is polished and bug free! Good luck!
 
--I will add the link to the Vercel here once i have completed the steps
+VERCEL DEPLOYMENT/WEBSITE
+
+-Link to Vercel:https://web-module-project-deploying-web-apps-zeta.vercel.app/
+-Also i will be editing this portfolio over time, i just needed to upload what i have as of now to canvas
+-I also have to figure out how to merge the portfolio i started making with this now, i had to update my npx so it all became a bit confusing
 
 ### Task 3: Stretch Problems
 
